@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F8F8FF&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+PEDRO+HENRIQUE+!;SOU+PROGRAMADOR+FULLSTACK❤️)](https://git.io/typing-svg)
 
-- 🔭 I´m working with front-end ...
-- 🌱 I´m learning in IFPE Palmares ...
+- 🔭 I´m learnig front-end ...
+- 🌱 I´m learning in ETE Palmares ...
 - 😄 Pronouns:He/His ...
 
 **Linguagens e Ferramentas:**  
@@ -20,8 +20,8 @@
 
  <div>
   <a href="https://github.com/phstutors">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=phstutors&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phstutors&layout=compact&langs_count=7&theme=dark"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Istrupiciu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istrupiciu&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div> 
   <a href="https://www.youtube.com/channel/phstutorsdegames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
