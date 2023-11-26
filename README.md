@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F8F8FF&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+ESDRAS+ARAUJO!;SOU+ESTUDANTE+DE+PROGRAMAÇÃO❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F8F8FF&center=true&vCenter=true&width=1000&lines=HELLO+MY+NAME+IS+ESDRAS+ARAUJO!;I'M+STUDENT+OF+PROGRAMING❤️)](https://git.io/typing-svg)
 
 <img height="100" align="right" alt="Coding_cat" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif">
 - 🔭 I´m learnig front-end<br>
