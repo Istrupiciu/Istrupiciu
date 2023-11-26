@@ -32,6 +32,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Istrupiciu&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
+```python
+if formado == True:
+    print("Feliz da vida!!!")
+else:
+    print("Continuarei tentando")
+```
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Istrupiciu&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
