@@ -33,10 +33,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Istrupiciu&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ```python
-if formado == True:
-    print("Feliz da vida!!!")
+if formed == True:
+    print("let's work!!!")
 else:
-    print("Continuarei tentando")
+    print("keep going")
 ```
 
 ---
