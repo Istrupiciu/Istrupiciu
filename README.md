@@ -6,7 +6,7 @@
 - 🔭 I´m learnig front-end<br>
 - 📝 I´m I'm studying to be a systems development <br>
 - 🌱 I´m learning in ETE Palmares<br>
-- 😄 Pronouns: He/His<br>
+- 😄 Pronouns: He/His<br><br>
 
 **Languages ​​and Tools:**  <br><br>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
