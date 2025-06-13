@@ -16,7 +16,6 @@
 ## 🚧 Projects in Development
 - 📝 **Spell Checker with GUI** — OCR-integrated spellchecker using PyQt  
 - 👾 **Doom Clone** — A Java-based remake of the classic game  
-- 🏛️ **Notary Office System** — System for managing notarization services with user registration, power of attorney generator, and more
 
 ---
 
