@@ -11,9 +11,8 @@
 ---
 
 ## ✅ Completed Projects
-- 🎧 [**HarmonyWave**](https://harmonywave.netlify.app) — Spotify-inspired web interface using HTML/CSS/JS  
-- 🖼️ **PDF Generator** — Organizes images from folders and exports them to PDF (GUI in Tkinter)
-
+- 🎧 [**HarmonyWave**](https://harmonywave.netlify.app) — Spotify-inspired web interface using HTML/CSS/JS
+- 
 ## 🚧 Projects in Development
 - 📝 **Spell Checker with GUI** — OCR-integrated spellchecker using PyQt  
 - 👾 **Doom Clone** — A Java-based remake of the classic game  
