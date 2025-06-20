@@ -6,7 +6,6 @@
 - 🎓 Completed technical course in **Systems Development** at *ETE Palmares*  
 - 🎓 Currently studying **Control and Automation Engineering** at *UFRPE/UABJ*  
 - 💻 Passionate about software development, GUI apps, and Linux environments (Fedora user)  
-- 😄 Pronouns: **He/Him**
 
 ---
 
