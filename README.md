@@ -29,7 +29,7 @@
 ---
 
 <div>
-  <a href="https://github.com/Istrupiciu">
+  <a href="https://github.com/esdrasAraujo01">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=esdrasAraujo01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasAraujo01&layout=compact&langs_count=7&theme=dark"/>
 </div>
