@@ -51,7 +51,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Istrupiciu&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=esdrasAraujo01&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ```python
 if formed == True:
