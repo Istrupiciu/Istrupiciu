@@ -13,7 +13,7 @@
 - 🎧 [**HarmonyWave**](https://harmonywave.netlify.app) — Spotify-inspired web interface using HTML/CSS/JS
 
 ## 🚧 Projects in Development
-- 📝 **Spell Checker with GUI** — OCR-integrated spellchecker using PyQt  
+- 📝 **Document Image Merger** — a document merge with opencv edge detection  
 - 👾 **Doom Clone** — A Java-based remake of the classic game  
 
 ---
